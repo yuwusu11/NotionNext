@@ -31,3 +31,4 @@ const CONFIG_HEXO = {
   WIDGET_DARK_MODE: true, // 夜间模式
   WIDGET_TOC: true // 移动端悬浮目录
 }
+export default CONFIG_HEXO
