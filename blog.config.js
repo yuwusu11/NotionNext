@@ -178,7 +178,7 @@ const BLOG = {
     },
     {
       name: 失眠飞行
-      artist: 'Falcom Sound Team jdk',
+      artist: '12085016',
       url: 'http://music.163.com/song/media/outer/url?id=1365898499.mp3',
       cover:
           'http://p2.music.126.net/Bq6Io8lpY1l2HsQ28QKFlw==/109951164083996255.jpg'
